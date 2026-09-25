@@ -10,11 +10,11 @@
 
 [![XAGI Labs](https://img.shields.io/badge/XAGI%20Labs-000000?style=for-the-badge&logo=probot&logoColor=white)](https://xagilab.com)
 [![MELRA](https://img.shields.io/badge/MELRA-Agent%20Kernel-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/XAGI-Lab/melra)
-[![GitHub](https://img.shields.io/badge/GitHub-dheeraj--codingdesk-181717?style=for-the-badge&logo=github)](https://github.com/dheeraj-codingdesk)
+[![GitHub](https://img.shields.io/badge/GitHub-dheeraj--codingdesk-181717?style=for-the-badge&logo=github)](https://github.com/dhe-eraj-s)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=dheeraj-codingdesk&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=&style=for-the-badge)
 
 </div>
 
@@ -473,7 +473,7 @@ A universally respected software-development lifecycle.
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dheeraj-codingdesk&theme=dark&hide_border=false" alt="Dheeraj's GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhe-eraj-s&theme=dark&hide_border=false" alt="Dheeraj's GitHub Streak" />
 
 </div>
 
@@ -484,9 +484,9 @@ A universally respected software-development lifecycle.
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dheeraj-codingdesk/dheeraj-codingdesk/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dheeraj-codingdesk/dheeraj-codingdesk/output/github-contribution-grid-snake.svg" />
-  <img alt="Dheeraj's GitHub Contribution Snake" src="https://raw.githubusercontent.com/dheeraj-codingdesk/dheeraj-codingdesk/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhe-eraj-s/dhe-eraj-s/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dhe-eraj-s/dhe-eraj-s/output/github-contribution-grid-snake.svg" />
+  <img alt="Dheeraj's GitHub Contribution Snake" src="https://raw.githubusercontent.com/dhe-eraj-s/dhe-eraj-s/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
@@ -576,6 +576,6 @@ class Dheeraj:
 
 <br/>
 
-[![GitHub Followers](https://img.shields.io/github/followers/dheeraj-codingdesk?style=for-the-badge&logo=github)](https://github.com/dheeraj-codingdesk)
+[![GitHub Followers](https://img.shields.io/github/followers/dhe-eraj-s?style=for-the-badge&logo=github)](https://github.com/dhe-eraj-s)
 
 </div>
