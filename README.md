@@ -10,7 +10,7 @@
 
 [![XAGI Labs](https://img.shields.io/badge/XAGI%20Labs-000000?style=for-the-badge&logo=probot&logoColor=white)](https://xagilab.com)
 [![MELRA](https://img.shields.io/badge/MELRA-Agent%20Kernel-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/XAGI-Lab/melra)
-[![GitHub](https://img.shields.io/badge/GitHub-dheeraj--codingdesk-181717?style=for-the-badge&logo=github)](https://github.com/dhe-eraj-s)
+[![GitHub](https://img.shields.io/badge/GitHub-dhe-eraj-s-181717?style=for-the-badge&logo=github)](https://github.com/dhe-eraj-s)
 
 <br/>
 
