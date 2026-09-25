@@ -10,11 +10,11 @@
 
 [![XAGI Labs](https://img.shields.io/badge/XAGI%20Labs-000000?style=for-the-badge&logo=probot&logoColor=white)](https://xagilab.com)
 [![MELRA](https://img.shields.io/badge/MELRA-Agent%20Kernel-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/XAGI-Lab/melra)
-[![GitHub](https://img.shields.io/badge/GitHub-dhe-eraj-s-181717?style=for-the-badge&logo=github)](https://github.com/dhe-eraj-s)
+[![GitHub](https://img.shields.io/badge/GitHub-dhe--eraj--s-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhe-eraj-s)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=dhe-eraj-s&style=for-the-badge)
 
 </div>
 
@@ -503,7 +503,7 @@ A universally respected software-development lifecycle.
 [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Dhe_eraj_s)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/dhee.raj_s/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/dhe_eraj_s/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dheeraj@xagilab.com.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dheeraj@xagilab.com)
 
 </div>
 
