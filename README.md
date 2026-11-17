@@ -324,7 +324,7 @@ That's where things get considerably more interesting.
 
 # 🎓 Somewhere Between All This...
 
-I'm also studying **at IIT Madras**.
+I'm also studying **at IIT Madras (2025 - 2029)**.
 
 Currently exploring:
 
